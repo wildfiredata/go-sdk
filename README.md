@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-- [go-sdk](https://github.com/WildfireData/go-sdk)
+- [go-sdk](https://github.com/ThinkingDataAnalytics/go-sdk)
 
 ## Licence
 
